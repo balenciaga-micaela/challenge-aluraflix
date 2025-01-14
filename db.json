@@ -1,0 +1,67 @@
+{
+  "videos": [
+    {
+      "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti!",
+      "categoria": "Front-end",
+      "src": "https://www.youtube.com/embed/QjOWz9avkg8?si=tlFXKyqyRoNBOdWw",
+      "descripcion": "¿Quieres saber más? Ve nuestros cursos: https://www.aluracursos.com/\n\n Alura Encuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog \n\n\n ¡Videos nuevos todos los miércoles! A las 6pm México \\ *7pm Colombia * 8pm Bolivia * 9pm \nArgentina/Chile ",
+      "id": "39si0y7"
+    },
+    {
+      "titulo": "¿Qué son las Soft Skills?",
+      "categoria": "Innovación y Gestión",
+      "src": "https://www.youtube.com/embed/vhwspfvI52k?si=WkpE_mseKOHRw5zc",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "id": "hiisc4w"
+    },
+    {
+      "titulo": "Desmitificando el Back-end",
+      "categoria": "Back-end",
+      "src": "https://www.youtube.com/embed/LLt7FreeHfQ?si=pgMwAzyGbnW7IhKX",
+      "descripcion": "¿Qué es backend?  ¿Por qué debería comenzar mi carrera con backend? \n¿Cuáles son las skills necesarias para ser un buen desarrollador backend? \n¿Qué hace un desarrollador backend en su dia a dia laboral? \nEsas y otras preguntas serán respondidas en este evento, en el que vamos a hablar con Maria Fernanda Ferreira y Diego Arguelles dos programadores Back End e Instructores de Alura.",
+      "id": "5ghh1ev"
+    },
+    {
+      "titulo": "Equipo Front End",
+      "categoria": "Front-end",
+      "src": "https://www.youtube.com/embed/rpvrLaBQwgg?si=LD771P7pvYqry8TP",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?\n\nEn este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+      "id": "qxh7eot"
+    },
+    {
+      "titulo": "Cómo volverse un desarrollador Front End ",
+      "categoria": "Front-end",
+      "src": "https://www.youtube.com/embed/-Ou5c3A225k?si=hlppyTphKCQvjXw6",
+      "descripcion": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+      "id": "9x334ik"
+    },
+    {
+      "titulo": "Cómo prepararse para entrevistas de tecnología",
+      "categoria": "Innovación y Gestión",
+      "src": "https://www.youtube.com/embed/o7VANBy9cl0?si=4fF1N315zFCnzZIB",
+      "descripcion": "Sabemos que pasar por entrevistas de empleo puede ser un poco estresante, por eso, en este video, Caro Gayosso nos dará algunos consejos para pasar por etapa de una manera más tranquila.",
+      "id": "m9ghk19"
+    },
+    {
+      "titulo": "¿Cuál es la diferencia entre Front End y Back End?",
+      "categoria": "Back-end",
+      "src": "https://www.youtube.com/embed/R9uaBxgCkyA?si=Rsg_5NBURyEbBOUR",
+      "descripcion": "¿Cuál es la diferencia entre Front End y Back End? \n\nEn este Alura Más, Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web.",
+      "id": "bozq7ci"
+    },
+    {
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "categoria": "Front-end",
+      "src": "https://www.youtube.com/embed/UuAX5azcvDQ?si=2vkPp8hB7s9NDTp7",
+      "descripcion": "\nEn este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "id": "jzzw22r"
+    },
+    {
+      "titulo": "Prepárate para entrevistas de vacantes Front End",
+      "categoria": "Front-end",
+      "src": "https://www.youtube.com/embed/tCucAhX51v4?si=sUim1wn39z_tYxgm",
+      "descripcion": "¿Te estás preparando para tus primeras entrevistas para puestos de Front End? ¿Sabes cuáles son las preguntas más frecuentes de los reclutadores? En este video, nuestra instructora Barbara realizará una simulación de una entrevista para una vacante de Desarrollador Front End Jr. Además, te daremos algunos consejos para que puedas destacar en tus próximas entrevistas.",
+      "id": "4iyi74f"
+    }
+  ]
+}
